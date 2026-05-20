@@ -22,7 +22,7 @@ I take designs from Figma to live sites, wire up the payment and funnel integrat
 | **HotelPulse** | Async booking platform demonstrating queue-based architecture under partial failure. | .NET 10 · Nuxt 4 · RabbitMQ · MongoDB · Docker · K8s |
 | **GROVE Coffee** | Single-file landing showcasing pure design-implementation skill — no framework. | HTML · CSS · JavaScript · anime.js |
 | **AI Agents Arsenal** | Published CLI that installs skills and MCP servers into 8 AI coding agents with one command. | TypeScript · Bun · npm |
-| **EVGENEST Studio site** | This portfolio you're reading. | Astro 6 · Svelte 5 · Tailwind 4 |
+| **EVGENEST Studio site** | This portfolio you're reading. | Astro 6 · TypeScript · CSS |
 
 ### Stack
 
@@ -32,11 +32,11 @@ I take designs from Figma to live sites, wire up the payment and funnel integrat
 
 **Animation** — `anime.js` `GSAP` `Framer Motion`
 
-**Integrations** — `Stripe` `Meta Pixel` `Mailchimp` `Telegram Bot API` `WhatsApp Business API`
+**Integrations** — `Stripe` `Tally.so` `ChatPlace` `third-party embeds`
 
 **Testing** — `Vitest` `Playwright`
 
-**Tooling** — `Vite` `Bun` `pnpm` `Cloudflare Pages` `Docker`
+**Tooling** — `Vite` `Bun` `Cloudflare Pages` `Vercel` `Docker`
 
 **Backend** — `.NET 10` `Node` `MongoDB` `Cloudflare Workers`
 

@@ -9,9 +9,9 @@ I take designs from Figma to live sites, wire up the payment and funnel integrat
 
 ### Currently
 
-- Shipping a 13-locale production marketing site on Next.js 16 / React 19
+- [Level Up Championship 2026](https://level-up-championship.com/): the 13-language event site is live; now building an AI assistant that answers participants on Telegram, web chat and email
 - Maintaining [`@evgenest/ai-agents-arsenal`](https://www.npmjs.com/package/@evgenest/ai-agents-arsenal) — one-command setup for AI coding agents
-- Simplifying [evgenest.dev](https://evgenest.dev) to make it clearer for clients
+- Next up on [evgenest.dev](https://evgenest.dev): case-study pages for each project
 - Open to new freelance work — Mon–Fri, CET. Reply within 24h.
 
 ### Selected work
@@ -33,7 +33,7 @@ I take designs from Figma to live sites, wire up the payment and funnel integrat
 
 **Animation** — `anime.js` `GSAP` `Framer Motion`
 
-**Integrations** — `Stripe` `Tally.so` `ChatPlace` `third-party embeds`
+**Integrations** — `SumUp` `Stripe` `Resend` `Telegram Bot API` `Tally.so` `ChatPlace` `third-party embeds`
 
 **Testing** — `Vitest` `Playwright`
 

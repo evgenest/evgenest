@@ -1,6 +1,6 @@
 # Evgenii Churin
 
-**Frontend implementation developer for designers, brand owners, and agencies.**
+**Freelance full-stack developer for designers, brand owners, and agencies.**
 I take designs from Figma to live sites, wire up the payment and funnel integrations, and ship. Based in Germany.
 
 → [evgenest.dev](https://evgenest.dev) · Available for fixed-price tickets, hourly contracts, and retainers.

@@ -46,6 +46,6 @@ I take designs from Figma to live sites, wire up the payment and funnel integrat
 - Telegram — [@evgenest_care](https://t.me/evgenest_care)
 - WhatsApp — [wa.chatfuel.com/evgenest](https://wa.chatfuel.com/evgenest)
 - Instagram — [@evgenest_vision](https://instagram.com/evgenest_vision)
-- Email — [care@evgenest.dev](mailto:care@evgenest.dev)
+- Email — [me@evgenest.dev](mailto:me@evgenest.dev)
 
 *Every project is individual — just reach out and we'll figure it out together.*

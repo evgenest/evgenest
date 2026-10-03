@@ -18,11 +18,12 @@ I take designs from Figma to live sites, wire up the payment and funnel integrat
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Level Up Championship 2026** | Multilingual marketing site for a hairdressing championship in Berlin (13 locales, production traffic). | Next.js 16 · React 19 · TypeScript · Tailwind · Radix UI |
-| **HotelPulse** | Async booking platform demonstrating queue-based architecture under partial failure. | .NET 10 · Nuxt 4 · RabbitMQ · MongoDB · Docker · K8s |
-| **GROVE Coffee** | Single-file landing showcasing pure design-implementation skill — no framework. | HTML · CSS · JavaScript · anime.js |
-| **AI Agents Arsenal** | Published CLI that installs skills and MCP servers into 8 AI coding agents with one command. | TypeScript · Bun · npm |
-| **EVGENEST Studio site** | This portfolio you're reading. | Astro 6 · TypeScript · CSS |
+| **[Level Up Championship 2026](https://level-up-championship.com/)** | Event site in 13 languages with SumUp checkout for a pan-European hairdressing championship; now building its AI assistant. | Next.js 16 · React 19 · TypeScript · Tailwind · SumUp · Vercel |
+| **[Harmony Hairstyle Academy](https://harmony-hairstyle-akademy.com/)** | Coloring course site for Nadiya Kornuta, with SumUp checkout and course access sent automatically by email and Telegram. | Next.js 16 · React 19 · TypeScript · Tailwind · SumUp · Netlify |
+| **[Mariana Vais](https://mvaismentor.com/)** | Brand site for a beauty mentor, built on Astro: animated testimonial deck, course pages, SumUp payments. | Astro 7 · TypeScript · anime.js · Cloudflare Workers |
+| **[EVGENEST Achievements](https://github.com/evgenest/evgenest-achievements)** | Open-source Cloudflare Worker that turns a week of GitHub activity into an AI-written report and sends it to Telegram. | TypeScript · Cloudflare Workers · AI SDK 7 · GitHub API · Telegram Bot API |
+| **[AI Agents Arsenal](https://www.npmjs.com/package/@evgenest/ai-agents-arsenal)** | Open-source CLI on npm that installs skills and MCP servers into AI coding agents with one command. | TypeScript · Bun · npm · GitHub Actions |
+| **[EVGENEST.dev](https://evgenest.dev)** | This portfolio, with a hero video that plays as you scroll. | Astro 7 · TypeScript · Cloudflare Pages |
 
 ### Stack
 

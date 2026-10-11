@@ -1,11 +1,15 @@
 # Evgenii Churin
 
-**Freelance full-stack developer for designers, brand owners, and agencies.**
-I take designs from Figma to live sites, wire up the payment and funnel integrations, and ship. Based in Germany.
+**White-label development partner for design studios.**
+You design in Figma — I ship the production site under your brand: Astro or Next.js,
+with payments, booking, multi-language and AI assistants wired in. Based in Germany (CET).
 
-→ [evgenest.dev](https://evgenest.dev) · Available for fixed-price tickets, hourly contracts, and retainers.
+→ [evgenest.dev](https://evgenest.dev) · Monthly retainer or fixed price per site · NDA-friendly
 
----
+### How I work
+- **Async-first:** Loom walkthroughs and written updates instead of status calls
+- **Preview link for every change**, so your team reviews in the browser
+- **Mon–Fri, CET.** Reply within 24h.
 
 ### Currently
 
@@ -42,10 +46,9 @@ I take designs from Figma to live sites, wire up the payment and funnel integrat
 **Backend** — `.NET 10` `Node` `MongoDB` `Cloudflare Workers`
 
 ### Reach me
-
+- Email — [me@evgenest.dev](mailto:me@evgenest.dev)
 - Telegram — [@evgenest_care](https://t.me/evgenest_care)
 - WhatsApp — [wa.chatfuel.com/evgenest](https://wa.chatfuel.com/evgenest)
 - Instagram — [@evgenest_vision](https://instagram.com/evgenest_vision)
-- Email — [me@evgenest.dev](mailto:me@evgenest.dev)
 
-*Every project is individual — just reach out and we'll figure it out together.*
+*Send a Figma link and a deadline — I'll reply within 24h.*

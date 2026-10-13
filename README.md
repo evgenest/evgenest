@@ -7,7 +7,7 @@ with payments, booking, multi-language and AI assistants wired in. Based in Germ
 → [evgenest.dev](https://evgenest.dev) · Monthly retainer or fixed price per site · NDA-friendly
 
 ### How I work
-- **Async-first:** Loom walkthroughs and written updates instead of status calls
+- **Async-first:** written updates instead of status calls
 - **Preview link for every change**, so your team reviews in the browser
 - **Mon–Fri, CET.** Reply within 24h.
 
@@ -47,6 +47,7 @@ with payments, booking, multi-language and AI assistants wired in. Based in Germ
 
 ### Reach me
 - Email — [me@evgenest.dev](mailto:me@evgenest.dev)
+- Contra — [contra.com/evgenii_churin_7obkjuac](https://contra.com/evgenii_churin_7obkjuac)
 - Telegram — [@evgenest_care](https://t.me/evgenest_care)
 - WhatsApp — [wa.chatfuel.com/evgenest](https://wa.chatfuel.com/evgenest)
 - Instagram — [@evgenest_vision](https://instagram.com/evgenest_vision)
